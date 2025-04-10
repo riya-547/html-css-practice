@@ -8,6 +8,19 @@ height: 100%;
 width: 100%;
 }
 
+
+#nav{
+    height: 10%;
+    width: 100%;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    
+    
+}
+
 button{
     margin: 40px;
     padding: 20px 50px;
